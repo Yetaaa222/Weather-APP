@@ -1,2 +1,2 @@
 # Weather-APP
-Weather app that to Open Weather app API
+Weather app that connects to Open Weather app API
